@@ -1,0 +1,5 @@
+{
+  "name": "AeroDynamics Calculator",
+  "description": "A minimal, aesthetic aircraft performance calculator capable of executing density, altitude, lift, and drag formulas with AI-powered insights.",
+  "requestFramePermissions": []
+}
