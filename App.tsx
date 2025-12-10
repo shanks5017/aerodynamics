@@ -103,7 +103,7 @@ const App: React.FC = () => {
         {/* Footer */}
         <footer className="mt-24 pt-8 border-t border-zinc-900 text-center">
             <p className="text-zinc-600 text-sm font-mono">
-                Designed for precision. Powered by Gemini.
+                Designed for precision. Powered by Aether.
             </p>
         </footer>
 
